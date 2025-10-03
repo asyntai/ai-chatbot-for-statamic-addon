@@ -1,8 +1,8 @@
 {
-  "name": "asyntai/statamic-asyntai-chatbot",
+  "name": "asyntai/statamic-ai-chatbot",
   "description": "Asyntai - AI Chatbot for Statamic. AI assistant / chatbot – Provides instant answers to your website visitors.",
   "type": "statamic-addon",
-  "license": "GPL-2.0-or-later",
+  "license": "MIT",
   "authors": [
     {"name": "Asyntai", "homepage": "https://asyntai.com"}
   ],
