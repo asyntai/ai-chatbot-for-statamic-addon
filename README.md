@@ -1,4 +1,4 @@
-# Asyntai - AI Chatbot Plugin For Statamic CMS
+# Asyntai - AI Chatbot Addon For Statamic CMS
 
 Create and launch AI assistant/chatbot for your Statamic website in minutes. It talks to your visitors, helps, explains, never misses a chat and can increase conversion rates! All while knowing your website, customized just for you. Your October website can now talk.
 
